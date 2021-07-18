@@ -1,2 +1,2 @@
-# CS50_Project
+# WebProgramming_Project
 Repository of the CS50 Course
